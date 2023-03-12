@@ -7,11 +7,10 @@ Do feel free to reach me out via:
 [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-blueviolet?style=flat-square&logo=ProtonMail&logoColor=white)](mailto:ryux01x@protonmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1CA0F1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ryux01_)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melissah01/)
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-E34F26?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/19874792/ryux01)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/8877)
 
 ## :toolbox: Languages and tools!
-Here are the languages I have experience with!
+Here are the languages and tools I have experience with!
 
 ### Languages
 ![Shell Script Badge](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=GNU+Bash&logoColor=white)
