@@ -23,6 +23,7 @@ Here are the languages and tools I have experience with!
 ### Framworks
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Bulma Badge](https://img.shields.io/badge/-Bulma-ff69b4?style=for-the-badge&logo=Bulma&logoColor=white)
+![Laravel_Badge](https://img.shields.io/badge/Laravel-red)
 
 ### Databases
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-9cf?style=for-the-badge&logo=MySQL&logoColor=black)
