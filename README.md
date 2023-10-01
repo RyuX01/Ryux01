@@ -1,6 +1,6 @@
 <h1 align="center">:wave: Hey there!</h1>
 
-I'm **Ryux01** a **full stack web developer** who loves learning, trying new things and of course, building stuff.
+I'm **Ryux01**, a **passionate full-stack web developer ** on a continuous journey of learning, exploring new horizons, and crafting digital solutions. With a love for building things that matter, I embrace every coding challenge as an opportunity to grow.
 
 Feel free to explore my work, collaborate, or reach me out for any exciting coding adventures via:
 
