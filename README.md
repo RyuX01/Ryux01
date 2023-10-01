@@ -2,7 +2,7 @@
 
 I'm **Ryux01** a **full stack web developer** who loves learning, trying new things and of course, building stuff.
 
-Do feel free to reach me out via:
+Feel free to explore my work, collaborate, or reach me out for any exciting coding adventures via:
 
 [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-blueviolet?style=flat-square&logo=ProtonMail&logoColor=white)](mailto:ryux01x@protonmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1CA0F1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ryux01_)
