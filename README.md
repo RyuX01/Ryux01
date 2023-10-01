@@ -27,7 +27,7 @@ Here are the languages and tools I have experience with!
 
 ### Databases
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-9cf?style=for-the-badge&logo=MySQL&logoColor=black)
-![Microsoft SQL Server Badge](https://img.shields.io/badge/-Microsoft SQL Serve-9cf?style=for-the-badge&logo=Microsoft SQL Serve&logoColor=bleu)
+![Microsoft SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Serve-9cf?style=for-the-badge&logo=Microsoft_SQL_Serve&logoColor=white)
 
 ### Editors
 ![Vim Badge](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
