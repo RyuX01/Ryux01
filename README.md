@@ -77,4 +77,4 @@ Here are the languages and tools I have experience with!
 
 # :bar_chart: Some statistics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryux01&custom_title=Ryux's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFFFFF&line=9745f5&point=FFD700&area_color=000000&title_color=9745f5&area=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryux01&custom_title=Ryux's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFFFFF&line=9745f5&point=FFFFFF&area_color=000000&title_color=9745f5&area=true" alt="GitHub Activity Graph"/>
